@@ -1,0 +1,9 @@
+* gtwiwtg
+
+Naive generators for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/d3v3l0/gtwiwtg.git |
+| commit  | 72a6cd1                                   |
+| systems | gtwiwtg                                   |
+|---------+-------------------------------------------|
