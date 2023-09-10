@@ -4,6 +4,6 @@ Naive generators for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://cicadas.surf/cgit/colin/gtwiwtg.git |
-| commit  | 03ee1f6                                         |
+| commit  | 1a87240                                         |
 | systems | gtwiwtg                                         |
 |---------+-------------------------------------------------|
